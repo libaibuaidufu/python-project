@@ -1,3 +1,7 @@
+### 功能介绍
+
+利用libreoffice将 word和pdf互相转换
+
 ### docker 快速使用
 
 **必须：复制到windows 中文字体 simsun.ttc 到 当前文件夹目录，以避免中文乱码**
