@@ -6,7 +6,7 @@
 
 **必须：复制到windows 中文字体 simsun.ttc 到 当前文件夹目录，以避免中文乱码**
 
-```bash
+```Shell
 mkdir -p ~/word2pdf/{download_files,upload_files}
 cd word2pdf
 docker build -t word2pdf:v1 .
